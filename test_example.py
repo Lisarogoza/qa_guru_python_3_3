@@ -1,14 +1,14 @@
-def test_example_0():
-    assert 10 > 1
+def test_example_11():
+    assert 10 > 9
 
 
-def test_another_1():
-    assert 0 != 1
+def test_another_12():
+    assert 0 != 3
 
 
-def test_another_10():
-    assert 0 == 0
+def test_another_13():
+    assert 0 >= 0
 
 
-def test_another_20():
-    assert 0 == 0
+def test_another_14():
+    assert 1 == 1
